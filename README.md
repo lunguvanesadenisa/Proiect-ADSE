@@ -1,4 +1,5 @@
 A. Analiza şi diagnoza unui sistem economic: Sistemul medical Regina Maria
+
 B. Sistemul de plăți electronice la o Bancă Comercială – Utilizarea limbajului de modelare UML
 Descriere generală:
 O bancă comercială dorește să îmbunătățească experiența clienților săi prin
